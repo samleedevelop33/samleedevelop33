@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm sam lee</h1>
 <h3 align="center">A passionate ios & Full-Stack developer from South Korea</h3>
 
