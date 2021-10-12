@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm sam lee</h1>
 <h3 align="center">A passionate ios & Full-Stack developer from South Korea</h3>
 
-- 🔭 I’m currently working on **Fitmedi**
+- 🔭 I’m currently working on **Doongle**
 
 - 🌱 I’m currently learning **SwiftUI**
 
